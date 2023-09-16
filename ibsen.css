@@ -1,0 +1,38 @@
+/* ibsen.css */
+
+/* Speech class styles */
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+  
+  /* Direction class styles */
+  .direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f9f9f9; /* Light background color */
+  }
+  
+  /* Hover effect for directions */
+  .direction:hover {
+    background-color: #ddd; /* Darker background on hover */
+    color: white;
+  }
+  
+  /* Character name class styles */
+  .mrs-stockmann {
+    color: #3366cc; /* Blue for Mrs. Stockmann */
+  }
+  
+  .dr-stockmann {
+    color: #ff9900; /* Orange for Dr. Stockmann */
+  }
+  
+  .morten-kiil {
+    color: #009933; /* Green for Morten Kiil */
+  }
+  
+  /* Add more character styles as needed */
+  
