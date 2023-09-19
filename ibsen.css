@@ -52,15 +52,15 @@
   }
   
   /* Apply color styles to specific classes */
-  .Character {
+  .character {
     color: rgb(148, 131, 215);
   }
   
-  .Actor {
+  .actor {
     color: rgb(220, 23, 20);
   }
   
-  .Understudy {
+  .understudy {
     color: hotpink;
   }
   
