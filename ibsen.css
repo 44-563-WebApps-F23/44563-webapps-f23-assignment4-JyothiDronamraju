@@ -12,22 +12,22 @@
     font-family: Times New Roman, serif;
     font-size: 14px;
     color: black;
-    background-color: #00FFFF; /* Light background color */
+    background-color: #dbe9e9; /* Light background color */
   }
   
   /* Hover effect for directions */
   .direction:hover {
-    background-color: #ddd; /* Darker background on hover */
+    background-color: #ea8282; /* Darker background on hover */
     color: white;
   }
   
   /* Character name class styles */
   .mrs-stockmann {
-    color: #3366cc; /* Blue for Mrs. Stockmann */
+    color: #11cfb3; /* Blue for Mrs. Stockmann */
   }
   
   .dr-stockmann {
-    color: #ff9900; /* Orange for Dr. Stockmann */
+    color: #d9199c; /* Orange for Dr. Stockmann */
   }
   
   .morten-kiil {
