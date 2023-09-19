@@ -7,32 +7,49 @@
     color: black;
   }
   
- 
-  .direction {
+   .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
     color: black;
     background-color: #dbe9e9; 
   }
   
- 
-  .direction:hover {
+   .direction:hover {
     background-color: #ea8282; 
     color: white;
   }
-  
-  /* Character name class styles */
+    /* Character name class styles */
   .mrs-stockmann {
     color: #11cfb3; /* Blue for Mrs. Stockmann */
   }
-  
-  .dr-stockmann {
+    .dr-stockmann {
     color: #d9199c; /* Orange for Dr. Stockmann */
   }
-  
-  .morten-kiil {
+    .morten-kiil {
     color: #009933; /* Green for Morten Kiil */
   }
-  
+  /* Apply styles to the table */
+.cast-table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+.cast-table th, .cast-table td {
+  border: 1px solid #9740d8;
+  padding: 8px;
+  text-align: left;
+}
+.cast-table th {
+  background-color: #85b7c9;
+}
+/* Add stripes to table rows */
+.cast-table tbody tr:nth-child(even) {
+  background-color: #eabf6b;
+}
+/* Center-align headers */
+.cast-table th {
+  text-align: center;
+}
+
  
   
