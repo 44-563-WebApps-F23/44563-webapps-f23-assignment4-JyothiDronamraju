@@ -29,38 +29,40 @@
     color: #009933; /* Green for Morten Kiil */
   }
   /* Apply styles to the table */
-.cast-table {
-  border-collapse: collapse;
-  width: 80%;
-  margin: 20px auto;
-}
-.cast-table th, .cast-table td {
-  border: 1px solid #171718;
-  padding: 8px;
-  text-align: left;
-}
-.cast-table th {
-  background-color: #e0a2fb;
-}
-/* Add stripes to table rows */
-.cast-table tbody tr:nth-child(even) {
-  background-color: #97e4e8;
-}
-/* Center-align headers */
-.cast-table th {
-  text-align: center;
-}
-.Character
-{
-  color:rgb(148, 131, 215);
-}
-.Actor
-{
-  color:rgb(220, 23, 20);
-}
-.Understudy
-{
-  color:hotpink;
-}
+  .cast-table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  .cast-table th, .cast-table td {
+    border: 1px solid #171718;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .cast-table th {
+    background-color: #e0a2fb;
+    text-align: center; /* Center-align headers */
+  }
+  
+  /* Add stripes to table rows */
+  .cast-table tbody tr:nth-child(even) {
+    background-color: #97e4e8;
+  }
+  
+  /* Apply color styles to specific classes */
+  .Character {
+    color: rgb(148, 131, 215);
+  }
+  
+  .Actor {
+    color: rgb(220, 23, 20);
+  }
+  
+  .Understudy {
+    color: hotpink;
+  }
+  
  
   
