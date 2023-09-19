@@ -1,23 +1,23 @@
 /* ibsen.css */
 
-/* Speech class styles */
+
 .speech {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: black;
   }
   
-  /* Direction class styles */
+ 
   .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
     color: black;
-    background-color: #dbe9e9; /* Light background color */
+    background-color: #dbe9e9; 
   }
   
-  /* Hover effect for directions */
+ 
   .direction:hover {
-    background-color: #ea8282; /* Darker background on hover */
+    background-color: #ea8282; 
     color: white;
   }
   
