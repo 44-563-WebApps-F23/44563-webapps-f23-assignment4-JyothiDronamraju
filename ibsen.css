@@ -35,16 +35,16 @@
   margin: 20px auto;
 }
 .cast-table th, .cast-table td {
-  border: 1px solid #9740d8;
+  border: 1px solid #171718;
   padding: 8px;
   text-align: left;
 }
 .cast-table th {
-  background-color: #85b7c9;
+  background-color: #e0a2fb;
 }
 /* Add stripes to table rows */
 .cast-table tbody tr:nth-child(even) {
-  background-color: #eabf6b;
+  background-color: #97e4e8;
 }
 /* Center-align headers */
 .cast-table th {
