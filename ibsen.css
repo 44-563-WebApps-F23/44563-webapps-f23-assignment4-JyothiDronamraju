@@ -63,6 +63,36 @@
   .understudy {
     color: hotpink;
   }
+
+  
+
+/* ibsen.css */
+
+/* Define a class for the element you want to style */
+.name {
+  /* Add your default styles here */
+  /* For example, let's set a default text color and font size */
+  color: #333;
+  font-size: 16px;
+  /* Add any other default styles you want */
+
+  /* Add a transition to smoothly animate the changes */
+  transition: all 0.3s ease-in-out;
+}
+
+/* Apply styles when hovering over the element with class "name" */
+.name:hover {
+  /* Add shadow with an interesting color and blur */
+  box-shadow: 0 0 10px #ff5733; /* Change color and values as desired */
+
+  /* Apply an interesting border */
+  border: 2px solid #ff5733; /* Change color and values as desired */
+
+  /* You can also change the text color when hovering */
+  color: #ff5733; /* Change to your preferred color */
+}
+
+
   
  
   
