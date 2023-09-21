@@ -65,9 +65,9 @@
   }
 
   h3:hover{
-    color: rgb(19, 12, 210);
+    color: rgb(103, 98, 238);
     border: dotted 2px rgb(232, 170, 90);
-    text-shadow: 1px 1px 2px rgb(82, 200, 230), 0 0 1em rgb(202, 235, 191), 0 0 0.2em rgb(201, 226, 40);
+    text-shadow: 1px 1px 2px rgb(226, 47, 19), 0 0 1em rgb(202, 235, 191), 0 0 0.2em rgb(201, 226, 40);
   }
 
 /* Reset some default styles */
